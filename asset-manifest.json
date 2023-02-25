@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b0c35f2.css",
-    "main.js": "/static/js/main.01ac4848.js",
+    "main.css": "/static/css/main.719477cf.css",
+    "main.js": "/static/js/main.94cc46fc.js",
     "static/media/Hero-Banner.webp": "/static/media/Hero-Banner.8af977725c86d704305f.webp",
     "static/media/lws-logo.svg": "/static/media/lws-logo.65f76d93ff520d42e4009e4488de4f84.svg",
     "static/media/Frame.svg": "/static/media/Frame.59e39d99652633d460ba3762270f9365.svg",
     "static/media/Vector (1).svg": "/static/media/Vector (1).333fc73d2c184772263122b16c72293a.svg",
     "static/media/Vector (3).svg": "/static/media/Vector (3).f20ae04cc87096971c0b0a724fc19f18.svg",
     "index.html": "/index.html",
-    "main.0b0c35f2.css.map": "/static/css/main.0b0c35f2.css.map",
-    "main.01ac4848.js.map": "/static/js/main.01ac4848.js.map"
+    "main.719477cf.css.map": "/static/css/main.719477cf.css.map",
+    "main.94cc46fc.js.map": "/static/js/main.94cc46fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b0c35f2.css",
-    "static/js/main.01ac4848.js"
+    "static/css/main.719477cf.css",
+    "static/js/main.94cc46fc.js"
   ]
 }
